@@ -6,7 +6,7 @@ DotPlot3D is a tool that expands on existing dot plot methodology and creates an
 
 The following tools are available:
 - An analysis table that can be downloaded to view regions of similarity before using the DotPlot3D tool. This includes a comparison at each position to highlight areas of comparison that might be used within the dot plot tool
-- Traditional dot plot tool, with comparison of three sequences. This does not include varying size, but does map based on 
-- Added features for transition/transversion, and synonymous/synonymous sites: extension to tradition tool for further analysis.
+- Traditional dot plot tool, with comparison of three sequences. This does not include varying size
+    - Added features for transition/transversion, and synonymous/synonymous sites: extension to tradition tool for further analysis.
 
 Please download the supplementary mannual for detailed instructions on how to use features of the code. Happy DotPlotting!
